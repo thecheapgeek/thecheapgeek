@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm the **Technology Manager** at [Dunwell Tech Inc](https://www.dinolitescope.com/), the master distributor for Dino-Lite microscopes in the Americas.
+I'm the **Technology Manager** at [Dunwell Tech Inc](https://www.dunwell.com/), the master distributor for [Dino-Lite](https://www.dinolite.us) microscopes in the Americas.
 
 In my role, I:
 - Plan and manage technology infrastructure
